@@ -1,4 +1,6 @@
 # Python-Exercises
 Range of python exercises and attempted solutions:
 
-* Grade Calulator
+* Grade calulator
+* Shape side descriptor
+* Vowel or consonant identifier
