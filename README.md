@@ -1,2 +1,4 @@
-# Python-Excercises
-Range of python exercises and attempted solutions
+# Python-Exercises
+Range of python exercises and attempted solutions:
+
+* Grade Calulator
